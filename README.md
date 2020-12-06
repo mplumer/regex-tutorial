@@ -6,7 +6,7 @@
 
   
 
-Today, we will be discussing regular expressions, also known as RegEx. RegEx is a tool that may be used to define a search term parameter, and can be applied in many different circumstances, across multiple coding languages.
+Regular expressions, also known as RegEx, are sequences of characters that form a search pattern. RegEx can be used to determine if a string contains a specific search term parameter, and can be applied in many different circumstances, across multiple coding languages.
 
   
 
